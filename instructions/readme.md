@@ -1,4 +1,4 @@
-# Azure Immersion Workshop: Internet of Things 
+# Azure Virtual Workshop: Internet of Things 
 
 Lab time: 180 minutes
 
