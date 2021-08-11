@@ -1,7 +1,7 @@
 # Release Notes
 
 ### August 2021 
-    -No planned updates for the month
+    -No planned updates for the month.
 
 -----------
 
