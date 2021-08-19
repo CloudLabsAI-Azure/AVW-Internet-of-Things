@@ -1,6 +1,7 @@
 # Release Notes
 
 ### 09 July 2021
-  - Minor Updates in the instructions for the Exercises 2, 4 and 5.
+  - Minor Update in Lab Guide.
+  - Instruction update in [Exercise-4, Task 1, Step 6](https://github.com/CloudLabsAI-Azure/AVW-Internet-of-Things/blob/master/instructions/04.md) to create the storage account in cloud shell, which helps users to access the Azure Cloud Shell.
     
 
