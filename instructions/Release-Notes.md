@@ -2,11 +2,11 @@
 
 ### 23 May 2022
   - Minor instuction update.
-  - In Exercise 1, Task 1 - Added a Note for welcome to Microsoft Edge page.
+  - In Exercise 1, Task 1 - Added a note for Welcome to Microsoft Edge page.
 
 ### 19 May 2022
   - Minor instruction and rendering updates in Exercise 1 and Exercise 4.
-  - In Exercise-5, Task 1 - Updated the instructions and screenshots for creating Log Analytics Workspace with latest UI.
+  - In Exercise - 5, Task 1 - Updated the instructions and screenshots for creating Log Analytics Workspace with latest UI.
 
 ### 24 March 2022
   - Minor update in Exercise 4, the docker image used for setting up **turbinesensor** module have updated to **mcr.microsoft.com/azureiotedge-simulated-temperature-sensor:1.0**.
